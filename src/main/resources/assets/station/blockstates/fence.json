@@ -1,0 +1,8 @@
+{
+    "variants":{
+    	"facing=north": { "model" : "station:fence", "y" : 180},
+    	"facing=west": { "model" : "station:fence", "y" : 90 },
+    	"facing=south": { "model" : "station:fence"},
+    	"facing=east": { "model" :"station:fence", "y" : 270 }
+    }
+}

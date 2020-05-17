@@ -1,0 +1,16 @@
+[
+{
+  "modid": "station",
+  "name": "Station mod",
+  "description": "A new version of station mod!",
+  "version": "1.12.2.01",
+  "mcversion": "1.12.2",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/eki-mod",
+  "updateUrl": "",
+  "authorList": ["ChAoS_UnItY and noto"],
+  "credits": "",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

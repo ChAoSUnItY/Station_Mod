@@ -1,0 +1,8 @@
+{
+    "variants":{
+    	"facing=north": { "model" : "station:wbtp", "y" : 180},
+    	"facing=west": { "model" : "station:wbtp", "y" : 90 },
+    	"facing=south": { "model" : "station:wbtp"},
+    	"facing=east": { "model" :"station:wbtp", "y" : 270 }
+    }
+}

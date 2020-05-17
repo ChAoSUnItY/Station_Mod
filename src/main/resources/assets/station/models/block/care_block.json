@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "station:blocks/care_block",
+        "down": "station:blocks/care_block_side",
+        "up": "station:blocks/care_block",
+        "north": "station:blocks/care_block_side",
+        "east": "station:blocks/care_block_side",
+        "south": "station:blocks/care_block_side",
+        "west": "station:blocks/care_block_side"
+    }
+}

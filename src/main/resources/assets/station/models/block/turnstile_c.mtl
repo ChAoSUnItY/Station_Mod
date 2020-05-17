@@ -1,0 +1,10 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Material.001
+
+map_Kd station:blocks/ticket_gate_main
+
+newmtl None
+
+map_Kd station:blocks/ticket_gate_door

@@ -1,0 +1,15 @@
+tile.noto.fence.name=Fence
+tile.noto.turnstile.name=Turnstile
+
+item.noto.ticket_unused.name=Ticket
+item.noto.ticket_used.name=Used Ticket
+item.noto.case.name=Ticket Case
+item.noto.torque_wrench=Torque Wrench
+
+itemGroup.noto.station_tab=Station
+
+container.ticket_case=Ticket Case
+container.vendor.1=One-Way Ticket
+container.vendor.2=Return Ticket
+container.vendor.3=Coupon Tickets
+container.vendor.4=Admission Ticket

@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "station:blocks/mark_machine",
+        "down": "station:blocks/mark_machine",
+        "up": "station:blocks/mark_machine",
+        "north": "station:blocks/mark_machine",
+        "east": "station:blocks/mark_machine",
+        "south": "station:blocks/mark_machine",
+        "west": "station:blocks/mark_machine"
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "station:white_brick" }
+    }
+}

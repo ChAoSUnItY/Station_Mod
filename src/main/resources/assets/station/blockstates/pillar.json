@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=white": { "model": "station:pillar_white" },
+		"variant=black": { "model": "station:pillar_black" }
+    }
+}

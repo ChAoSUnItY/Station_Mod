@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "station:blocks/asphalt",
+        "down": "station:blocks/asphalt",
+        "up": "station:blocks/asphalt",
+        "north": "station:blocks/asphalt",
+        "east": "station:blocks/asphalt",
+        "south": "station:blocks/asphalt",
+        "west": "station:blocks/asphalt"
+    }
+}

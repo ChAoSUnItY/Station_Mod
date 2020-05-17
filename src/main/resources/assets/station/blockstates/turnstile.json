@@ -1,0 +1,23 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+    	"custom": { "flip-v": true },
+        "model": "station:turnstile_c.obj"
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{
+            "transform": "forge:default-block"
+        }],
+        "facing": {
+            "north": {"y": 270},
+            "south": {"y": 90},
+            "west": {"y": 180},
+            "east": {"y": 0}
+        },
+        "open": {
+        	"true": {"model": "station:turnstile_o.obj"},
+        	"false": {"model": "station:turnstile_c.obj"}
+        }
+    }
+}
